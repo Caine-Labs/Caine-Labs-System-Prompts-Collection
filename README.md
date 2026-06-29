@@ -1,1 +1,1 @@
-colecao de system prompts utilizados no Caine Labs
+colecao de system prompts do laboratorio de ia Caine Labs
